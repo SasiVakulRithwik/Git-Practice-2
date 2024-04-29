@@ -1,3 +1,2 @@
 print("One")
-print("Fuck")
-print("Freakiest")
+print("1")
