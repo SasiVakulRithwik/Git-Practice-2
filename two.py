@@ -1,1 +1,2 @@
 print("MG")
+print("Kunni")
