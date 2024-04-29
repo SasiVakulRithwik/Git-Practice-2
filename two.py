@@ -1,2 +1,1 @@
-print("MG")
-print("Kunni")
+print("😒")
